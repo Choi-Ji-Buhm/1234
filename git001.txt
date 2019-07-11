@@ -1,0 +1,5 @@
+a.py (파이썬 파일) >>  add >> commit >> push
+
+repository  ( 저장소 ) 
+
+실험용 
